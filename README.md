@@ -135,14 +135,6 @@ A personal multi-agent LLM framework: council members independently answer a que
 
 </td>
 <td width="50%" valign="top">
-
-### 📚 [NLP Workshop](https://github.com/BEAST-AMMAR/NLP_Workshop)
-**End-to-End NLP Pipeline · 5-Day Curriculum**
-
-Full NLP toolkit: tokenization, POS tagging, NER, sentiment analysis (VADER), **real-time speech-to-text** (Vosk offline), text classification, chunking, and vectorization. Jupyter notebook + modular Python scripts + CI/CD via GitHub Actions.
-
-`NLTK` `spaCy` `Vosk` `scikit-learn` `Jupyter` `Python` `GitHub Actions`
-
 </td>
 </tr>
 </table>
