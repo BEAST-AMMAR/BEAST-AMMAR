@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-Third-year **B.E. AI & ML Engineering** student at Acharya Institute of Technology, Bengaluru.
+Fourth-year **B.E. AI & ML Engineering** student at Acharya Institute of Technology, Bengaluru.
 I don't collect tutorials — I ship systems. Nine domains, nine repos, zero excuses.
 
 Here's the actual training run that got me here:
